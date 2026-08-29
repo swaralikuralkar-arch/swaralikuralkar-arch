@@ -11,7 +11,7 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,sql)](https://skillicons.dev)
 
 ### AI / ML
 
@@ -23,7 +23,7 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,streamlit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,streamlit)](https://skillicons.dev)
 
 ### DevOps & Tools
 
@@ -31,7 +31,7 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 ### AI & Retrieval
 
-`LangGraph` · `LangChain` · `RAG` · `Ragas` · `Qdrant` · `BM25`
+`LangGraph` · `LangChain` · `LangSmith` · `RAG` · `Ragas` · `Qdrant` · `BM25`
 
 ---
 

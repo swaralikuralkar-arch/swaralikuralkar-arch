@@ -27,7 +27,7 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 ### DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,aws,git,github)](https://skillicons.dev)
 
 ### AI & Retrieval
 

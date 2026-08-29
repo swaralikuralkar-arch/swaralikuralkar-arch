@@ -29,6 +29,12 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github)](https://skillicons.dev)
 
+### AI & Retrieval
+
+`LangGraph` · `LangChain` · `RAG` · `Ragas` · `Qdrant` · `BM25`
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔎 Enterprise Hybrid RAG Engine

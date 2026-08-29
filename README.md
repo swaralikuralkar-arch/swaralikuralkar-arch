@@ -75,4 +75,4 @@ React · Streamlit · HTML · CSS
 
 ## 📫 Connect With Me
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/swarali-kuralkar-72313a401/)) · [LeetCode]([YOUR_LEETCODE_URL](https://leetcode.com/u/9lPK3T5RUD/))
+[LinkedIn](https://www.linkedin.com/in/swarali-kuralkar-72313a401/) · [LeetCode](https://leetcode.com/u/9lPK3T5RUD/)

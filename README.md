@@ -37,8 +37,6 @@ Currently exploring how intelligent systems can be made more **reliable, observa
 
 ### ⚡ Electronics & Communication
 
-[![ECE Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
 `Digital Electronics` · `Microcontrollers` · `Embedded Systems`
 `Communication Systems` · `Computer Architecture` · `Signal Processing`
 

@@ -60,8 +60,6 @@ Hands-on implementations and experiments covering distributed systems concepts s
 
 **700+ problems solved** across LeetCode, Codeforces and GeeksForGeeks
 
-**LeetCode Rating:** 1805
-
 ---
 
 ## 🔭 Currently Working On
